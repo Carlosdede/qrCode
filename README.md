@@ -1,2 +1,3 @@
 ![qrCode](https://github.com/user-attachments/assets/3d520b5d-911e-4a4f-97df-601edce04248)
 Em Construção...
+Esse pequeno projeto Consome uma API publica de Geraçao de qrCode, e quando eu escrevo um txt ou URL no input, ela me Gera um qrCode.
